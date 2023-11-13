@@ -1,0 +1,21 @@
+{
+  "name": "ybazuresdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/identity": "^3.3.2",
+    "@azure/keyvault-keys": "^4.7.2",
+    "@azure/keyvault-secrets": "^4.7.0",
+    "@yugabytedb/pg": "^8.7.3-yb-3"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
